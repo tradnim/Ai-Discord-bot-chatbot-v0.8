@@ -1,4 +1,4 @@
-# Discord Chatbot Template
+# Discord Chatbot
 
 This is a chatbot that uses a custom AI model via the LM Studio API. It allows you to set a specific channel for the bot to respond in, and the bot will only respond in that channel.
 
