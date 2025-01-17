@@ -1,4 +1,4 @@
-# Discord Chatbot
+# Discord Chatbot V0.9
 
 This is a chatbot that uses a custom AI model via the LM Studio API. It allows you to set a specific channel for the bot to respond in, and the bot will only respond in that channel.
 
@@ -9,7 +9,7 @@ This is a chatbot that uses a custom AI model via the LM Studio API. It allows y
 
 ## Setup
 - Replace The Discord bot id
-- Replace The localhost and the model name
+- Replace The localhost and the model name with the lm studio server local host and model name
 ### 1. Prerequisites
 
 - Python 3.8 or higher
